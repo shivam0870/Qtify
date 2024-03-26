@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css'; 
 import { FaSearch } from 'react-icons/fa'; 
 import Logo from './assets/logo.png'; 
+import styles from "./App.module.css";
 
 const Navbar = () => {
   return (
